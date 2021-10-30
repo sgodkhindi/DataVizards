@@ -1,9 +1,6 @@
 # DataVizards - Updated 10-30-2021
 ## GA Tech Data Visualization Course Project #1 - Data Vizards
 
-# Final Solution 
-[Solution Jupyter Notebook](SocialMedialAPIProject.ipynb)
-
 # Project Title
 ## Where in the World Are Your Trends Taking Place?
 
@@ -24,6 +21,10 @@
 ### Creating Pandas / Data Structures - Rajeshwari Natchiappan
 ### Graph Plotting - Thomas Lawless
 
+# Final Solution 
+### The link below has the final solution Jupyter Notebook
+
+[Solution Jupyter Notebook](SocialMedialAPIProject.ipynb)
 
 
 
