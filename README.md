@@ -22,7 +22,7 @@
 ### Graph Plotting - Thomas Lawless
 
 
-#Final Solution Program:
+#Final Solution 
 
 [Solution Jupyter Notebook] (SocialMedialAPIProject.ipynb)
 
