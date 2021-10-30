@@ -1,6 +1,9 @@
 # DataVizards - Updated 10-30-2021
 ## GA Tech Data Visualization Course Project #1 - Data Vizards
 
+#Final Solution 
+[Solution Jupyter Notebook] (SocialMedialAPIProject.ipynb)
+
 # Project Title
 ## Where in the World Are Your Trends Taking Place?
 
@@ -22,9 +25,7 @@
 ### Graph Plotting - Thomas Lawless
 
 
-#Final Solution 
 
-[Solution Jupyter Notebook] (SocialMedialAPIProject.ipynb)
 
 
 
