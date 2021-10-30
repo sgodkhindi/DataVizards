@@ -27,7 +27,8 @@
 [Solution Jupyter Notebook](SocialMedialAPIProject.ipynb)
 
 ### The link below has the Slide Deck
-[Presntation Slide Deck] (Where in the World Are Your Trends Taking.pptx)
+
+[Presentation Slide Deck](Where in the World Are Your Trends Taking.pptx)
 
 
 
