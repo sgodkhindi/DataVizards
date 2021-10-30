@@ -28,7 +28,7 @@
 
 ### The link below has the Slide Deck
 
-[Presentation Slide Deck]("Where in the World Are Your Trends Taking".pptx)
+[Presentation Slide Deck](Where_in_the_World_Are_Your_Trends_Taking.pptx)
 
 
 
